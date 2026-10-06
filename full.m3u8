@@ -312,7 +312,7 @@ http://maxmedya.duckdns.org/akamaissh101/ssh101/maxpremier/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExbzCW.png",189. Max Yerli
 http://maxmedya.duckdns.org/akamaissh101/ssh101/maxyerli/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/06/EvPMq8.png",189. Max Yerli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/06/EvPMq8.png",189. Max Dizi
 http://162.212.179.32/akamaissh101/ssh101/maxdizi/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/31/EVbRTR.png",194. Zem TV
