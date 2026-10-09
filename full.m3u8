@@ -124,7 +124,7 @@ https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_
 https://panel.5gtvhosting.com:2020/hls/karadeniztv/karadeniztv.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3Z4K.png",54. Ekol TV
-https://cdn509.ecanlitvizle.live/ekoltv.m3u8?tkn=TfC9gMg-V6yJU6JNZD3xiw&tms=1791300369&hst=www.ecanlitvizle.live&ip=78.173.5.233&utkn=0c101c184c498b88cd0d356314886944&ch=ekol-tv
+https://cdn.filbox.com.tr/api/stream/r?u=aHR0cDovL2V4Y2hhbmdlLmNkbnJkbi5jb206OTA5MC9UUi9la29sdHZoZC10ci90cmFja3MtdjFhMS9tb25vLm0zdTg_dG9rZW49ZmlsYm94X296dG52cW1mSzgzS1M&e=1791572400000&s=pbWonj8qJsMVp62-7zlk4tmQL0LU4YbajCSYa6CfKUs
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/09/23/Ealme1.png",58. Em 6 TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/63ca95c6653b359da44695b482756464/63ca95c6653b359da44695b482756464.m3u8
@@ -201,12 +201,6 @@ http://umperisn.mywire.org/index.php?id=611874&token=DeaTHLesS
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/08/16/E5T4XI.png",88. Sport TV 
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/31926/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",89. İdman TV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LVFGLXHUW45A8PBECGUURD6K/6840/index.m3u8
-
-#EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png",79. CBC Sport
-https://panel3.medyahd.workers.dev/live/Davut/1120269621/188.m3u8
-
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/K3Wpy0UOx.png",91. Arena Sport 1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/31602/index.m3u8
 
@@ -271,7 +265,7 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=ZDR2aE95VkFYKzRzM2lGUy9od1h
 https://dogus.daioncdn.net/tlc/tlc_360p.m3u8?token=OFZPd1pWUTB5YWxSeXMzbk0rZzBqdXFIbDI4Q0hYdHlGZVRqMUJiR2FqQT0=&sid=8a192jtdlmml&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/09/23/EalwFh.png",143. GZT TV
-https://gzttv-live.lg.mncdn.com/gzttv/gzttv/chunklist.m3u8
+https://gzttv-live.lg.mncdn.com/gzttv-live/gzttv/chunklist_w733566454.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezYM8.png",144. MMN Channel
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
@@ -290,9 +284,6 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PBuZ.png",177. Yansıma Nostalji
 http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/17/EnkFI8.png",183. Sümbül TV
-http://162.212.179.32/akamaissh101/ssh101/kanal30/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/13/ELygAI.png",184. Simvol TV 
 https://stream41.radyotelekom.com.tr/stream/m3u8/8415c530a751a25c4392bb8ddd0a3a19/8415c530a751a25c4392bb8ddd0a3a19.m3u8
@@ -409,7 +400,7 @@ https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 https://radyotelekomtv.com/player/m3u8/d38a38af9446339ff2540c460955f115/chunklist_w97926899.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EENhc7.png",228. TV 38
-https://yayin1.canlitv.fun/canlitv/tv38.stream/chunklist_w1867067274.m3u8?hash=cc74aa7fff42e0a2a426259425c8fd4e
+https://yayin1.canlitv.fun/canlitv/tv38.stream/chunklist_w175999317.m3u8?hash=4934062617c72bf3cde19b6c8edd5d3f
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EENLLR.png",229. TV 41
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
