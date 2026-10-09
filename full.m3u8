@@ -180,9 +180,6 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/890fc689b80dfd6e845610d3f556eea
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee39vc.png",78. Vizon Spor 2
 https://stream41.radyotelekom.com.tr/stream/m3u8/ef8cde27a367c84320bad219dbc192d5/ef8cde27a367c84320bad219dbc192d5.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/08/22/E4G9t1.png",79. Spor Live 
-https://ip100.radyotelekomtv.com:3034/hybrid/play.m3u8
-
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/07/18/EfQ7uD.png",80. NT Spor
 https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
 
