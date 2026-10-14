@@ -499,7 +499,7 @@ https://toonixhls.wns.live/hls/stream.m3u8
 https://stream41.radyotelekom.com.tr/stream/m3u8/1632c450b50fcb279d0b3cba7aa547f0/1632c450b50fcb279d0b3cba7aa547f0.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/10/14/HWUY1Q.png",321. Kral TV
-http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+https://dogusdyg-kralpoptv.lg.mncdn.com/dogusdyg-kralpoptv/dogusdyg_kralpoptv.smil/chunklist_w319974101_b2000096.m3u8?st=aNqygQbcNlb4LSqC82G6lA&e=1792098099
 
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://resmim.net/cdn/2026/08/17/E59jqW.png",323. Türk Pop TV
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
