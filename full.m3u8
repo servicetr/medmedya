@@ -64,7 +64,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/ba25adc1e0496113825f07fee71ae8b
 https://stream41.radyotelekom.com.tr/stream/m3u8/85a032c6a44a75085dce8b1ccc08b54b/85a032c6a44a75085dce8b1ccc08b54b.m3u8
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/Eeqg2W.png",22. TRT 4K
-http://umperisn.mywire.org/index.php?id=1842&token=DeaTHLesS
+http://tinyurl.com/2b9lfls2
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://cdn.imagevisit.com/2026/01/27/5.png",23. TRT 1
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
@@ -94,7 +94,7 @@ http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/28/EOBDny.png",36. TGRT 
-http://umperisn.mywire.org/index.php?id=594199&token=DeaTHLesS
+http://tinyurl.com/25xoaa7j
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/15/CZ2TI2.png",37. Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
@@ -281,6 +281,12 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PBuZ.png",177. Yansıma Nostalji
 http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/22/E4GuPx.png",180. Denge Movie
+http://162.212.179.32/akamaissh101/ssh101/dengemovie/chunks.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/23/EakQmq.png",181. Denge Yeşilçam
+http://162.212.179.32/akamaissh101/ssh101/denge1/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/13/ELygAI.png",184. Simvol TV 
 https://stream41.radyotelekom.com.tr/stream/m3u8/8415c530a751a25c4392bb8ddd0a3a19/8415c530a751a25c4392bb8ddd0a3a19.m3u8
