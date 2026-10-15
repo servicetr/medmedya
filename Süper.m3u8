@@ -136,7 +136,7 @@ https://edge2.taksimbilisim.com/caytv/bant1/chunks.m3u8
 https://cdn4.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3d4n.png",76. TV 100
-http://82.70.45.131/Uyan.php?ID=TV%20100
+https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/07/18/EfQ7uD.png",80. NT Spor
 https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
