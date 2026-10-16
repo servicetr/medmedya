@@ -123,9 +123,6 @@ https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg578T.png",53. Karadeniz TV
 https://panel.5gtvhosting.com:2020/hls/karadeniztv/karadeniztv.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3Z4K.png",54. Ekol TV
-https://cdn509.ecanlitvizle.live/ekoltv.m3u8?tkn=ztCHnYhLtp-1vslusaZt5A&tms=1791576301&hst=www.ecanlitvizle.live&ip=78.173.5.233&utkn=ac577441c48fe942ac98bc15621ded6a&ch=ekol-tv
-
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/09/23/Ealme1.png",58. Em 6 TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/63ca95c6653b359da44695b482756464/63ca95c6653b359da44695b482756464.m3u8
 
