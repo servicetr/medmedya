@@ -232,13 +232,13 @@ https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/10/20/HNPvpi.png",111. KRT TV
-https://stream41.radyotelekom.com.tr/stream/m3u8/d855efc94e42b07c58f72acf0f78de99/d855efc94e42b07c58f72acf0f78de99.m3u8
+http://176.65.153.12:6004/play/a021/index.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/10/20/HNnZ1G.png",112. Koza TV
-https://stream41.radyotelekom.com.tr/stream/m3u8/a4b3b79b47486ec64e47c01a1781d36b/a4b3b79b47486ec64e47c01a1781d36b.m3u8
+http://176.65.153.35:6003/play/a019/index.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/10/20/HNneFy.png",113. Halk TV
-https://stream41.radyotelekom.com.tr/stream/m3u8/0f463f84aba4f2a8f5baab2636a17f2b/0f463f84aba4f2a8f5baab2636a17f2b.m3u8
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezdCy.png",125. Vizon Wild
 https://stream41.radyotelekom.com.tr/stream/m3u8/929f3a430f83e902f2c52f2d880bfd73/929f3a430f83e902f2c52f2d880bfd73.m3u8
