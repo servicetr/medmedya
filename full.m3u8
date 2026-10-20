@@ -400,7 +400,7 @@ https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 http://tinyurl.com/28tv3oxc
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EENhc7.png",228. TV 38
-https://yayin1.canlitv.fun/canlitv/tv38.stream/chunklist_w175999317.m3u8?hash=4934062617c72bf3cde19b6c8edd5d3f
+https://yayin1.canlitv.fun/canlitv/kanal38.stream/chunklist_w1330965964.m3u8?hash=53c998a91c965e961c89c8d990894c55
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EENLLR.png",229. TV 41
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
@@ -496,7 +496,7 @@ https://toonixhls.wns.live/hls/stream.m3u8
 https://stream41.radyotelekom.com.tr/stream/m3u8/1632c450b50fcb279d0b3cba7aa547f0/1632c450b50fcb279d0b3cba7aa547f0.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/10/14/HWUY1Q.png",321. Kral TV
-https://dogusdyg-kralpoptv.lg.mncdn.com/dogusdyg-kralpoptv/dogusdyg_kralpoptv.smil/chunklist_w319974101_b2000096.m3u8?st=aNqygQbcNlb4LSqC82G6lA&e=1792098099
+https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?token=Ynd3aTdZcjM0MjZvcWZLdVdKaDcwWTlTRHNyWHZXLzRZQkdsTjhvQ0M4dz0=&sid=8ulbced2rs4y&app=f38a38b4-ce55-4040-8676-9826937d6128&ce=2
 
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://resmim.net/cdn/2026/08/17/E59jqW.png",323. Türk Pop TV
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
