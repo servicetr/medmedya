@@ -231,6 +231,15 @@ https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Yerel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/11/CSkSVI.png",110. Cem TV 
 https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8
 
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/10/20/HNPvpi.png",111. KRT TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/d855efc94e42b07c58f72acf0f78de99/d855efc94e42b07c58f72acf0f78de99.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/10/20/HNnZ1G.png",112. Koza TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/a4b3b79b47486ec64e47c01a1781d36b/a4b3b79b47486ec64e47c01a1781d36b.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/10/20/HNneFy.png",113. Halk TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/0f463f84aba4f2a8f5baab2636a17f2b/0f463f84aba4f2a8f5baab2636a17f2b.m3u8
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezdCy.png",125. Vizon Wild
 https://stream41.radyotelekom.com.tr/stream/m3u8/929f3a430f83e902f2c52f2d880bfd73/929f3a430f83e902f2c52f2d880bfd73.m3u8
 
@@ -545,6 +554,9 @@ https://webtvstream.bhtelecom.ba/hls7/filmbox_stars_1200.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlDpH.png",504. FilmBox Hits
 https://webtvstream.bhtelecom.ba/hls7/filmbox_premium_1200.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EIMgzi.png",505. Sony Channel
+http://138.121.15.230:9002/SONY/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EIMlKk.png",506. Sony Movies
 http://45.162.64.114/SONY_MOVIES/index.m3u8
