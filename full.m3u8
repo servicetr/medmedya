@@ -276,11 +276,11 @@ http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/17/EnrvR2.png",173. Max TV
 http://maxmedya.duckdns.org/akamaissh101/ssh101/maxtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EAQSlI.png",174. Kanal F
-http://162.212.179.32/akamaissh101/ssh101/mega_on/chunks.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXpAtH.png",174. Digimax 
+http://162.212.179.32/akamaissh101/ssh101/seriesone@/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/25/EtRJex.png",175. Fusion TV
-http://162.212.179.32/akamaissh101/ssh101/hbb_tv/chunks.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXpIpc.png",175. Digimax Plus
+http://maxmedya.duckdns.org/akamaissh101/ssh101/digimax2/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/16/CIcPbW.png",176. Yansıma Sinema
 https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37f/79adcbd0516d923757328a7ce9d0f37f.m3u8
@@ -288,11 +288,20 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PBuZ.png",177. Yansıma Nostalji
 http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/22/E4GuPx.png",180. Denge Movie
-http://162.212.179.32/akamaissh101/ssh101/dengemovie/chunks.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXpY1k.png",178. Teber HBB 
+http://162.212.179.32/akamaissh101/ssh101/hbb_tv/chunks.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXp4CW.png",179. Mega ON
+http://162.212.179.32/akamaissh101/ssh101/mega_on/chunks.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXpUgZ.png",179. Teber 6 TV
+http://162.212.179.32/akamaissh101/ssh101/turk6/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/23/EakQmq.png",181. Denge Yeşilçam
 http://162.212.179.32/akamaissh101/ssh101/denge1/chunks.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/22/E4GuPx.png",182. Denge Movie
+http://162.212.179.32/akamaissh101/ssh101/dengemovie/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/13/ELygAI.png",184. Simvol TV 
 https://stream41.radyotelekom.com.tr/stream/m3u8/8415c530a751a25c4392bb8ddd0a3a19/8415c530a751a25c4392bb8ddd0a3a19.m3u8
@@ -303,8 +312,8 @@ https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/04/30/CbQMEo.png",186. Deniz TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/8b852b7b00762f50083e325166e9d758/8b852b7b00762f50083e325166e9d758.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExbF7L.png",187. Max Stars
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471887&extension=ts
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXpkvZ.png",187. İzle Go 
+http://maxmedya.duckdns.org/akamaissh101/ssh101/izlego/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/Exbav1.png",188. Max Premier
 http://maxmedya.duckdns.org/akamaissh101/ssh101/maxpremier/playlist.m3u8
@@ -312,7 +321,7 @@ http://maxmedya.duckdns.org/akamaissh101/ssh101/maxpremier/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExbzCW.png",189. Max Yerli
 http://maxmedya.duckdns.org/akamaissh101/ssh101/maxyerli/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/06/EvPMq8.png",189. Max Dizi
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/06/EvPMq8.png",190. Max Dizi
 http://162.212.179.32/akamaissh101/ssh101/maxdizi/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/31/EVbRTR.png",194. Zem TV
@@ -321,7 +330,7 @@ http://45.158.14.16/ZemTv/live/index.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/18/C3viGQ.png",195. Şaban TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NdCsaT8nqRbz.png",196. B TV
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXFWei.png",196. B TV
 https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/Exew5j.png",197. SDM TV
