@@ -498,6 +498,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ZvfJCgRdzL8.png",330. Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8
 
+#EXTINF:-1 group-title="Müzik & Yaşam" tvg-logo="https://resmim.net/cdn/2026/10/27/HwKMOK.png",332. KN Music
+https://stream41.radyotelekom.com.tr/stream/m3u8/3ba6b1f5cad23983f365d10bfee6976f/3ba6b1f5cad23983f365d10bfee6976f.m3u8
+
 #EXTINF:-1 group-title="Müzik & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/26/Exr212.png",333. Denge Müzik
 https://dengetv.ozelip.com:3143/live/dengelive.m3u8
 
