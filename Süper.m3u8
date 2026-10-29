@@ -99,6 +99,9 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/e452d8d09e77a161c3c8a9865708e2f
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/15/E12b3G.png",61. Planet Mutfak
 https://stream41.radyotelekom.com.tr/stream/m3u8/d43a725316d69f892f8612b9da7e4b2f/d43a725316d69f892f8612b9da7e4b2f.m3u8
 
+#EXTINF:-1 group-title="Haber & Yaşam" tvg-logo="https://resmim.net/cdn/2026/10/29/HCYGI7.png",62. Taşeli TV
+https://www.youtube.com/live/4erOsNlcfqI?si=Cz7pheIKk-bxNWZ_
+
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3wVc.png",63. Vizon Haber
 https://live.euromediacenter.com/istanbultvgrup/tracks-v1a1/mono.m3u8
 
