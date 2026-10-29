@@ -432,6 +432,9 @@ https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EE3can.png",250. Kanal 61
 https://cdn1-haber61tv.yayin.com.tr/haber61tv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Yerel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/10/29/HCHZMQ.png",251. Bodrum Kent TV
+https://edge2.taksimbilisim.com/bodrumkenttv/bant1/chunks.m3u8
+
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/26/CNzspn.png",260. TE TV
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
 
@@ -443,12 +446,6 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/7d4b7b39624d861060d7d52a773b4be
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/8pYqaL7vh_2V.png",302. Star Çocuk
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cocuklara-ozel-tv/playlist/0.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/31/EVb0sH.png",303. Zem Çocuk 
-http://93.177.103.226/Cocuklar/live/index.m3u8
-
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/08/26/ExoUyh.png,304. Max Animasyon
-http://maxmedya.duckdns.org/akamaissh101/ssh101/maxnimasyon/playlist.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5hTM.png",310. Carton Network
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DEZWG4KWUAEXFK/6846/index.m3u8
