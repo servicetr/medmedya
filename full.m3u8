@@ -235,7 +235,7 @@ https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/10/20/HNPvpi.png",111. KRT TV
-http://176.65.153.12:6004/play/a021/index.m3u8
+http://176.65.153.3:8042/play/a03u/index.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/10/20/HNnZ1G.png",112. Koza TV
 http://176.65.153.35:6003/play/a019/index.m3u8
