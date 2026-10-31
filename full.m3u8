@@ -483,12 +483,6 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/08/15/E12oFT.png",301. Planet Çocuk
 https://stream41.radyotelekom.com.tr/stream/m3u8/7d4b7b39624d861060d7d52a773b4bee/7d4b7b39624d861060d7d52a773b4bee.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/31/EVb0sH.png",303. Zem Çocuk 
-http://93.177.103.226/Cocuklar/live/index.m3u8
-
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/08/26/ExoUyh.png,304. Max Animasyon
-http://maxmedya.duckdns.org/akamaissh101/ssh101/maxnimasyon/playlist.m3u8
-
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5hTM.png",310. Carton Network
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DEZWG4KWUAEXFK/6846/index.m3u8
 
@@ -522,7 +516,7 @@ https://host.onlineradyotv.net:8081/televolemagazin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/17/E59KOc.png",325. Slow Karadeniz TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezYM8.png",126. MMN Channel
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezYM8.png",326. MMN Channel
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/17/E5nLEn.png",327. NR 1
