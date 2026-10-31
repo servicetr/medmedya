@@ -117,17 +117,20 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/fd714ea08cda5f90db75f0c52124e43
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/24/EtEOXH.png",47. FIX TV 
 https://stream41.radyotelekom.com.tr/stream/m3u8/7e42bb9e048c1417fb9078eaf624d688/7e42bb9e048c1417fb9078eaf624d688.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/22/E4rMe3.png",50. Teleon 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/22/E4rMe3.png",48. Teleon 
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg578T.png",53. Karadeniz TV
 https://panel.5gtvhosting.com:2020/hls/karadeniztv/karadeniztv.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/09/23/Ealme1.png",58. Em 6 TV
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/09/23/Ealme1.png",55. Em 6 TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/63ca95c6653b359da44695b482756464/63ca95c6653b359da44695b482756464.m3u8
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/09/23/EalWDG.png",59. Chennal 6
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/09/23/EalWDG.png",57. Chennal 6
 https://cdn4.yayin.com.tr/channel6tv/index.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee33wD.png",58. World Türk
+https://worldturktv.radyotelekom.com.tr:3971/live/worldturktvstreamlive.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/07/EelJQ2.png",60. Vizon Show 
 https://stream41.radyotelekom.com.tr/stream/m3u8/e452d8d09e77a161c3c8a9865708e2f3/e452d8d09e77a161c3c8a9865708e2f3.m3u8
@@ -138,38 +141,29 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/d43a725316d69f892f8612b9da7e4b2
 #EXTINF:-1 group-title="Haber & Yaşam" tvg-logo="https://resmim.net/cdn/2026/10/29/HCYGI7.png",62. Taşeli TV
 https://www.youtube.com/live/4erOsNlcfqI?si=Cz7pheIKk-bxNWZ_
 
-#EXTINF:-1 group-title="Haber & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3wVc.png",63. Vizon Haber
+#EXTINF:-1 group-title="Haber & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3wVc.png",68. Vizon Haber
 https://live.euromediacenter.com/istanbultvgrup/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/27/CNvAjF.png",64. NTV
+#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/27/CNvAjF.png",69. NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
 
-#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/31/E8IGFk.png",65. TRT Haber
+#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/31/E8IGFk.png",70. TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3kcy.png",66. A Haber
+#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3kcy.png",71. A Haber
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 
-#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EeqkWT.png",67. TGRT Haber
+#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EeqkWT.png",72. TGRT Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
 
-#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/31/E8IFnC.png",68. Haber Türk
+#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/31/E8IFnC.png",73. Haber Türk
 https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8mm28dr8lng4&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee33wD.png",71. World Türk
-https://worldturktv.radyotelekom.com.tr:3971/live/worldturktvstreamlive.m3u8
-
-#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/29/CbwlRC.png",72. Tele 5
-https://stream41.radyotelekom.com.tr/stream/m3u8/64abeab09d682a437f049c02b4b1f0eb/64abeab09d682a437f049c02b4b1f0eb.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/08/EeqBkh.png",73. Kanal Plus
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/08/EeqBkh.png",74. Kanal Plus
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee35wi.png",74. Çay TV
-https://edge2.taksimbilisim.com/caytv/bant1/chunks.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3R1C.png",75. Telenews
-https://cdn4.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/29/CbwlRC.png",75. Tele 5
+https://stream41.radyotelekom.com.tr/stream/m3u8/64abeab09d682a437f049c02b4b1f0eb/64abeab09d682a437f049c02b4b1f0eb.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3d4n.png",76. TV 100
 https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
@@ -246,23 +240,20 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/10/27/HwK4IL.png",114. CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezdCy.png",125. Vizon Wild
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3R1C.png",115. Telenews
+https://cdn4.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezdCy.png",130. Vizon Wild
 https://stream41.radyotelekom.com.tr/stream/m3u8/929f3a430f83e902f2c52f2d880bfd73/929f3a430f83e902f2c52f2d880bfd73.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/01/EVOtKb.png",126. DocuBox
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/01/EVOtKb.png",131. DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/28/EOg5zo.png",127. Viasat Explore
-http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/13/ELrcoC.png",130. Sar TV
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/13/ELrcoC.png",132. Sar TV
 https://ip44.radyotelekomtv.com:3548/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",135. Nature Time
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",136. Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/22/E4Aqzc.png",137. Travel 4K
-https://streams2.sofast.tv/umaxx/v1/01977dd01f661ebd47042b72b0c07c/01977dd12cc51ebd416a3eb5c6c77f/4k_travel_tv_2500k.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/09/08/EAQ6Fb.png",140. TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
@@ -276,8 +267,8 @@ https://dogus.daioncdn.net/tlc/tlc_360p.m3u8?token=OFZPd1pWUTB5YWxSeXMzbk0rZzBqd
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/09/23/EalwFh.png",143. GZT TV
 https://gzttv-live.lg.mncdn.com/gzttv-live/gzttv/chunklist_w733566454.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezYM8.png",144. MMN Channel
-http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/22/E4Aqzc.png",144. Travel 4K
+https://streams2.sofast.tv/umaxx/v1/01977dd01f661ebd47042b72b0c07c/01977dd12cc51ebd416a3eb5c6c77f/4k_travel_tv_2500k.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/17/EnrvR2.png",173. Max TV
 http://maxmedya.duckdns.org/akamaissh101/ssh101/maxtv/playlist.m3u8
@@ -357,8 +348,8 @@ https://live.artidijitalmedya.com/artidijital_artworld/artworld/chunks.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EequY6.png",204. Muğla Türk
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/04/27/CYKiKC.png",205. Mihrap TV
-https://yayin30.haber100.com/live/mihraptv/chunklist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee35wi.png",74. Çay TV
+https://edge2.taksimbilisim.com/caytv/bant1/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EeqG1C.png",206. Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
@@ -368,6 +359,9 @@ http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/16/E5RHY1.png",208. MK Türk
 https://live.euromediacenter.com/mkturk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/04/27/CYKiKC.png",209. Mihrap TV
+https://yayin30.haber100.com/live/mihraptv/chunklist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/kj3LxgTUhCte.png",210. On Medya
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
@@ -474,9 +468,6 @@ https://yayin1.canlitv.fun/canlitv/kanal38.stream/chunklist_w1330965964.m3u8?has
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/6tC23.png",247. Kanal 53 
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EE3yGF.png",248. Kanal 58
-https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
-
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EE3can.png",250. Kanal 61
 https://cdn1-haber61tv.yayin.com.tr/haber61tv/tracks-v1a1/mono.m3u8
 
@@ -530,6 +521,9 @@ https://host.onlineradyotv.net:8081/televolemagazin/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/17/E59KOc.png",325. Slow Karadeniz TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezYM8.png",126. MMN Channel
+http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/17/E5nLEn.png",327. NR 1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
