@@ -306,7 +306,7 @@ http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/16/E5RHY1.png",208. MK Türk
 https://live.euromediacenter.com/mkturk/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/04/27/CYKiKC.png",209. Mihrap TV
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/10/31/HE5diL.png",209. Mihrap TV
 https://yayin30.haber100.com/live/mihraptv/chunklist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/kj3LxgTUhCte.png",210. On Medya
@@ -409,7 +409,7 @@ https://edge2.taksimbilisim.com/kanal33/bant1/chunks.m3u8
 https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/10/20/HN6HxG.png",245. Kanal 38
-https://yayin1.canlitv.fun/canlitv/kanal38.stream/chunklist_w1330965964.m3u8?hash=53c998a91c965e961c89c8d990894c55
+https://yayin1.canlitv.fun/canlitv/kanal38.stream/chunklist_w2121592057.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/6tC23.png",247. Kanal 53 
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
