@@ -282,6 +282,9 @@ http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/22/EGQuWG.png",212. Çizgi 48 TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/72183a3422dc419ca3010272ef4839be/72183a3422dc419ca3010272ef4839be.m3u8
 
+#EXTINF:-1 group-title="Yerel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/11/05/Hd6qV6.png",213. Kent 64 
+https://radyotelekomtv.com/player/m3u8/b5b784b69f3840320c0c461230adff7f/chunklist_w2088009415.m3u8
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/16/E5RLCk.png",214. Kay TV
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
 
