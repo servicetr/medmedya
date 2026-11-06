@@ -105,6 +105,9 @@ https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 group-title="Ulusal & yaşam" tvg-logo="https://resmim.net/cdn/2026/09/01/E6Mjq7.png",39. Flash TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
 
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/16/E5RFMT.png",42. Konya Olay TV
+http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
+
 #EXTINF:-1 group-title="Ulusal & yaşam" tvg-logo="https://resmim.net/cdn/2026/11/02/HHsgvD.png",43. Kanal 1 
 http://176.65.153.40:6002/play/a01e/index.m3u8
 
@@ -311,9 +314,6 @@ https://edge2.taksimbilisim.com/caytv/bant1/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EeqG1C.png",206. Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/16/E5RFMT.png",207. Konya Olay TV
-http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/16/E5RHY1.png",208. MK Türk
 https://live.euromediacenter.com/mkturk/tracks-v1a1/mono.m3u8
