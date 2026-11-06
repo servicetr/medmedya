@@ -267,9 +267,6 @@ https://edge2.taksimbilisim.com/caytv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EeqG1C.png",206. Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/16/E5RFMT.png",207. Konya Olay TV
-http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
-
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/16/E5RHY1.png",208. MK Türk
 https://live.euromediacenter.com/mkturk/tracks-v1a1/mono.m3u8
 
