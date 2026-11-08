@@ -258,9 +258,6 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/929f3a430f83e902f2c52f2d880bfd7
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/01/EVOtKb.png",131. DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/13/ELrcoC.png",132. Sar TV
-https://ip44.radyotelekomtv.com:3548/hybrid/play.m3u8
-
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",136. Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
@@ -494,9 +491,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 
 #EXTINF:-1 group-title="Müzik & Yaşam" tvg-logo="https://resmim.net/cdn/2026/10/27/HwKMOK.png",332. KN Music
 https://stream41.radyotelekom.com.tr/stream/m3u8/3ba6b1f5cad23983f365d10bfee6976f/3ba6b1f5cad23983f365d10bfee6976f.m3u8
-
-#EXTINF:-1 group-title="Müzik & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/26/Exr212.png",333. Denge Müzik
-https://dengetv.ozelip.com:3143/live/dengelive.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/08/17/ERZf7C.png",340. Trace Latına
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
