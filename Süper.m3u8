@@ -210,9 +210,6 @@ https://cdn4.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/01/EVOtKb.png",131. DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/13/ELrcoC.png",132. Sar TV
-https://ip44.radyotelekomtv.com:3548/hybrid/play.m3u8
-
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",136. Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
