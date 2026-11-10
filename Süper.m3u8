@@ -87,6 +87,9 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/7e42bb9e048c1417fb9078eaf624d68
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/22/E4rMe3.png",48. Teleon 
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
 
+#EXTINF:-1 group-title="Eğlence & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3Z4K.png",52. Ekol TV
+https://cdn509.canlitvizle.tv/ekoltv.m3u8?tkn=qKTaFQS1TPEPKv7nYhDUFw&tms=1794309678&hst=iframe.canlitvizle.tv&ip=178.244.57.167&utkn=ef37ae7eb9a835492e2ed585a57df984&ch=ekol-tv
+
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg578T.png",53. Karadeniz TV
 https://panel.5gtvhosting.com:2020/hls/karadeniztv/karadeniztv.m3u8
 
@@ -319,7 +322,7 @@ https://edge1.taksimbilisim.com/tv1/bant1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EENxYK.png",227. TV 5
-https://radyotelekomtv.com/player/m3u8/d38a38af9446339ff2540c460955f115/chunklist_w1324685002.m3u8
+https://cdn.filbox.com.tr/api/stream/r?u=aHR0cDovL2V4Y2hhbmdlLmNkbnJkbi5jb206OTA5MC9UUi90djUtdHIvdHJhY2tzLXYxYTEvbW9uby5tM3U4P3Rva2VuPWZpbGJveF9venRudnFtZks4M0tT&e=1794308400000&s=zt1Y0YGkZ4u8PXahe66z7IxH1lBHplcmKQykWZQ0VGw
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EENhc7.png",228. TV 38
 https://yayin1.canlitv.fun/canlitv/tv38.stream/chunklist_w1268650254.m3u8
