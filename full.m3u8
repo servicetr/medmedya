@@ -231,6 +231,9 @@ https://tv-trtkurdi.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/09/08/EAQQgD.png",107. TRT Genç
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 group-title="Yaşam & Müzik" tvg-logo="https://resmim.net/cdn/2026/11/10/H33HV6.png",109. Max TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/2f6c6f3f20507659b552f18eb8bf6776/2f6c6f3f20507659b552f18eb8bf6776.m3u8
+
 #EXTINF:-1 group-title="Yerel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/11/CSkSVI.png",110. Cem TV 
 https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8
 
