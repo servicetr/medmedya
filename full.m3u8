@@ -93,9 +93,6 @@ http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/31/CjXwDL.png",33. Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
-#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/28/EOBDny.png",36. TGRT 
-http://tinyurl.com/25xoaa7j
-
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/15/CZ2TI2.png",37. Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
@@ -550,7 +547,7 @@ https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist
 https://sivrice.tv.vin/ictimaitv.m3u8?tkn=DPrmE0zfX0KvGSgyOXnPTw&tms=1788723602&hst=tv.vin&ip=78.173.4.60&utkn=8c7c6ee15ecb51e94c718ee31a6249f2&ch=ictimai-tv
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",521. Az TV
-https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/19cd62a5b772fc9b2dae70f63573786e/19cd62a5b772fc9b2dae70f63573786e.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-7.png",570. Persina Türkiye
 https://turkhls.persiana.live/hls/stream.m3u8
