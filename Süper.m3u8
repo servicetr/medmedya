@@ -322,7 +322,7 @@ https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 https://cdn.filbox.com.tr/api/stream/r?u=aHR0cDovL2V4Y2hhbmdlLmNkbnJkbi5jb206OTA5MC9UUi90djUtdHIvdHJhY2tzLXYxYTEvbW9uby5tM3U4P3Rva2VuPWZpbGJveF9venRudnFtZks4M0tT&e=1794308400000&s=zt1Y0YGkZ4u8PXahe66z7IxH1lBHplcmKQykWZQ0VGw
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EENhc7.png",228. TV 38
-https://yayin1.canlitv.fun/canlitv/tv38
+https://yayin1.canlitv.fun/canlitv/tv38.stream/chunklist_w990106102.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EENLLR.png",229. TV 41
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
@@ -373,7 +373,7 @@ https://edge2.taksimbilisim.com/kanal33/bant1/chunks.m3u8
 https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/10/20/HN6HxG.png",245. Kanal 38
-https://yayin1.canlitv.fun/canlitv/kanal38.stream/chunklist_w1539229738.m3u8
+https://yayin1.canlitv.fun/canlitv/kanal38.stream/chunklist_w296820025.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/6tC23.png",247. Kanal 53 
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
