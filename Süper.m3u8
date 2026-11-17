@@ -388,10 +388,10 @@ https://edge2.taksimbilisim.com/bodrumkenttv/bant1/chunks.m3u8
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/11/17/HKtbXj.png",291. BRT 1 
-https://stream41.radyotelekom.com.tr/stream/m3u8/f0da379c1bde6e9869f6d65776fbc8e0/f0da379c1bde6e9869f6d65776fbc8e0.m3u8
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 
-#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/11/17/HKtoIy.png",292. BRT 2 
-https://stream41.radyotelekom.com.tr/stream/m3u8/b0f14874e96ef6f682729ecdb4ccf9e9/b0f14874e96ef6f682729ecdb4ccf9e9.m3u8
+#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/11/17/HKt9yh.png",292. BRT 2 
+https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/10/14/HWqMRM.png",300. Vizon Çocuk
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/0.m3u8
