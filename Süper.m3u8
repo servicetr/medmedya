@@ -159,7 +159,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://cdn.imagevisit.com/2026/01/27/tv-platformlari-200-x-200-piksel-kopyasi-4.png",88. Sıfır Spor
 http://xbyte.alwaysdata.net/vavo.php?ID=1553288763
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/20/Cg2lXI.png",91. Trace Sports
+#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/20/Cg2lXI.png",93. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/2.png",94. A2
@@ -319,7 +319,7 @@ https://edge1.taksimbilisim.com/tv1/bant1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EENxYK.png",227. TV 5
-http://xbyte.alwaysdata.net/vavo.php?ID=2055199683
+https://cdn509.tv.vin/tv5.m3u8?tkn=Q0vQ8VsNxIlOsE53hk-2Cg&tms=1795216971&hst=tv.vin&ip=78.173.6.24&utkn=71e6aa111b83ec01c0f5e49f99247922&ch=tv5
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EENhc7.png",228. TV 38
 https://yayin1.canlitv.fun/canlitv/tv38.stream/chunklist_w990106102.m3u8
