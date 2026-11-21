@@ -282,6 +282,9 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3R1C.png",155. Telenews
 https://cdn4.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",195. Az TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/19cd62a5b772fc9b2dae70f63573786e/19cd62a5b772fc9b2dae70f63573786e.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXFWei.png",196. B TV
 https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
 
@@ -557,9 +560,6 @@ https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",520. İçtimal TV
 https://sivrice.tv.vin/ictimaitv.m3u8?tkn=DPrmE0zfX0KvGSgyOXnPTw&tms=1788723602&hst=tv.vin&ip=78.173.4.60&utkn=8c7c6ee15ecb51e94c718ee31a6249f2&ch=ictimai-tv
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",521. Az TV
-https://stream41.radyotelekom.com.tr/stream/m3u8/19cd62a5b772fc9b2dae70f63573786e/19cd62a5b772fc9b2dae70f63573786e.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-7.png",570. Persina Türkiye
 https://turkhls.persiana.live/hls/stream.m3u8
