@@ -163,7 +163,7 @@ http://xbyte.alwaysdata.net/vavo.php?ID=1553288763
 https://nene.tv.vin/idmantv.m3u8?tkn=eyNA5bw5k6bN9jtwPFLoJw&tms=1795282876&hst=tv.vin&ip=78.173.6.24&utkn=71e6aa111b83ec01c0f5e49f99247922&ch=idman-tv
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png",90. CBC Sport
-https://nene.tv.vin/cbcsport.m3u8?tkn=oAkEF7mYX2XzsBOgAW04ww&tms=1795269375&hst=tv.vin&ip=78.173.6.24&utkn=71e6aa111b83ec01c0f5e49f99247922&ch=cbc-sport
+https://nene.tv.vin/cbcsport.m3u8?tkn=FLmPRrNbKZPT_wz_uyPsVA&tms=1795294277&hst=tv.vin&ip=2a00:1d34:f6ac:3d00:511a:d553:b230:8120&utkn=71e6aa111b83ec01c0f5e49f99247922&ch=cbc-sport
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/20/Cg2lXI.png",93. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
@@ -236,6 +236,9 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3R1C.png",155. Telenews
 https://cdn4.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",195. Az TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/19cd62a5b772fc9b2dae70f63573786e/19cd62a5b772fc9b2dae70f63573786e.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXFWei.png",196. B TV
 https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
@@ -512,9 +515,6 @@ https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",520. İçtimal TV
 https://sivrice.tv.vin/ictimaitv.m3u8?tkn=DPrmE0zfX0KvGSgyOXnPTw&tms=1788723602&hst=tv.vin&ip=78.173.4.60&utkn=8c7c6ee15ecb51e94c718ee31a6249f2&ch=ictimai-tv
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",521. Az TV
-https://stream41.radyotelekom.com.tr/stream/m3u8/19cd62a5b772fc9b2dae70f63573786e/19cd62a5b772fc9b2dae70f63573786e.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-7.png",570. Persina Türkiye
 https://turkhls.persiana.live/hls/stream.m3u8
