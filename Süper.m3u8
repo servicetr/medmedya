@@ -160,10 +160,10 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 http://xbyte.alwaysdata.net/vavo.php?ID=1553288763
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",89. İdman TV
-https://tuzcu.canlitvizle.tv/idmantv.m3u8?tkn=AR7usK850t6cuSpZhBVYDg&tms=1795381893&hst=blog.canlitvizle.tv&ip=2a00:1d34:f6ac:3d00:f3b4:d357:438:f0a0&utkn=2bb275c53e6fb1835be66f45914970fb&ch=idman-tv
+https://maden.tv.vin/idmantv.m3u8?tkn=k5XrXdCqLEsDRGSZjFTo5w&tms=1795474498&hst=tv.vin&ip=2a00:1d34:f6ac:3d00:9d35:9821:d552:8de5&utkn=71e6aa111b83ec01c0f5e49f99247922&ch=idman-tv
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png",90. CBC Sport
-https://nene.canlitvizle.tv/cbcsport.m3u8?tkn=NmQp5KVQVSYUOpBcYoUZVQ&tms=1795381926&hst=blog.canlitvizle.tv&ip=2a00:1d34:f6ac:3d00:f3b4:d357:438:f0a0&utkn=2bb275c53e6fb1835be66f45914970fb&ch=cbc-sport
+https://hatun.tv.vin/cbcsport.m3u8?tkn=lDYpQE_MwmV34RTWPH7IKA&tms=1795474418&hst=tv.vin&ip=2a00:1d34:f6ac:3d00:9d35:9821:d552:8de5&utkn=71e6aa111b83ec01c0f5e49f99247922&ch=cbc-sport
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/20/Cg2lXI.png",93. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
@@ -536,3 +536,4 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/4e92186eefd8735b6febb4c5776e118
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/17/C3O0w3.png",903. Test 3
 https://stream41.radyotelekom.com.tr/stream/m3u8/d8b30eb717b23e2c785177e6e919016a/d8b30eb717b23e2c785177e6e919016a.m3u8
+
