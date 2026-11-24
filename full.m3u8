@@ -310,7 +310,7 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_artworld/artworld/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EequY6.png",204. Muğla Türk
-https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+https://edge2.taksimbilisim.com/muglaturk/bant1/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee35wi.png",205. Çay TV
 https://edge2.taksimbilisim.com/caytv/bant1/chunks.m3u8
