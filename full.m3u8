@@ -580,7 +580,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/a4069d94cd01efa7837421979d63734
 https://stream41.radyotelekom.com.tr/stream/m3u8/4e92186eefd8735b6febb4c5776e1181/4e92186eefd8735b6febb4c5776e1181.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/17/C3O0w3.png",903. Test 3
-https://stream41.radyotelekom.com.tr/stream/m3u8/d8b30eb717b23e2c785177e6e919016a/d8b30eb717b23e2c785177e6e919016a.m3u8
+https://webtv.muntvpremium.workers.dev/api.php?a=s&t=3s7zFv91O9hK_YJe_PdJ7B61jp0L3nG0mQGyJwm8JzbEv8JAHzH_jdVqJRNO4JfaIgEi-88zrMG7XoG1TCasJGOloAGOqHr0CPi__ScTxWS0UlSi2fAHS_-Dt_jf8RY9LNDsDGCIW9tD880Tigebr6Zf523gakScx2o
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/11/19/HYt5t1.png",905. Nova TV
 https://zemmedya.online/sine/hls/ten1/index.m3u8
